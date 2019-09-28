@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "RealEstate_2", "RealEstate_2\RealEstate_2.dtproj", "{D536030A-47FE-4F93-8E8C-92DB2A3533A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D536030A-47FE-4F93-8E8C-92DB2A3533A4}.Development|Default.ActiveCfg = Development
+		{D536030A-47FE-4F93-8E8C-92DB2A3533A4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08299F1A-3A99-4A98-A36C-20FFC8799C09}
+	EndGlobalSection
+EndGlobal
