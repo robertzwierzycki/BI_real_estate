@@ -9,4 +9,4 @@ The aim of the project was creating Business Intelligence solution for a Real Es
 	5. ETL Process Implementation
 	6. Developing BI dashboards
 
-*This project was created by: Tomasz Wierciński and Robert Zwierzycki*
+*This project was created by: Robert Zwierzycki and Tomasz Wierciński*
